@@ -15,9 +15,9 @@ This project demonstrates how to use a basic machine learning model to predict g
 
 ## 🛠️ Technologies Used
 
-- Python
-- [Your ML library: scikit-learn, TensorFlow, etc.]
-- [Game library: Pygame, etc.]
+- Python turtle
+- scikit-learn and Decision Tree Regression
+- Data Handling: pandas
 
 ## 📦 Installation
 
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ## 🚀 How to Run
 
 ```bash
-python pong_game.py
+python play.py
 ```
 
 Use arrow keys (or your controls) to move your paddle and play against the AI!
